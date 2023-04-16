@@ -1,0 +1,12 @@
+Browser Chrome
+
+
+url http://localhost:8888/
+username admin
+password admin
+
+
+
+url1 https://demo.actitime.com/
+username1 admin
+password1 manager
